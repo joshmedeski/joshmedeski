@@ -6,10 +6,6 @@
 - 👨‍💻 GoLang + TypeScript
 - 🚀 Automation and productivity lover
 
-
-## 📺 Latest Content
-Check out my latest videos and articles on [YouTube](https://www.youtube.com/@JoshMedeski) and [joshmedeski.com](https://www.joshmedeski.com).
-
 ## 📫 Connect with Me
 
 🌎 [joshmedeski.com](https://www.joshmedeski.com)
