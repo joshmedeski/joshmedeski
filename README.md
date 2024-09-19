@@ -1,12 +1,22 @@
-## Hi there, I'm Josh
+# Hi there, I'm Josh 👋
 
-I'm a full-stack developer and content creator. Right now, I'm talking a lot about my tmux + fish + neovim workflow. But I also talk about React, TailwindCSS, TypeScript, and more!
+- 🔧 Full-Stack Developer
+- 🎥 Content Creator
+- 💻 tmux + fish + neovim enthusiast
+- 👨‍💻 GoLang + TypeScript
+- 🚀 Automation and productivity lover
 
-I love automation and keyboard-driven productivity tricks. Come follow along!
 
-You can find me all around the web:
+## 📺 Latest Content
+Check out my latest videos and articles on [YouTube](https://www.youtube.com/@JoshMedeski) and [joshmedeski.com](https://www.joshmedeski.com).
+
+## 📫 Connect with Me
+
 🌎 [joshmedeski.com](https://www.joshmedeski.com)
 
-Or follow me on social media:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@JoshMedeski)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/joshmedeski)
+
+## 📈 GitHub Stats
+![Josh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshmedeski&show_icons=true&theme=dark)
+
