@@ -7,4 +7,4 @@ I love automation and keyboard-driven productivity tricks. Come follow along!
 You can find me all around the web:
 - 🌎 [Website](https://www.joshmedeski.com)
 - 📹 [YouTube Channel](https://www.youtube.com/@JoshMedeski)
-- 🐦 [Twitter](https://twitter.com/joshmedeski)
+- 🐦 [X](https://x.com/joshmedeski)
