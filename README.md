@@ -1,18 +1,20 @@
-# Hi there, I'm Josh 👋
+# Hey, I'm Josh Medeski 👋
 
 - 🔧 Full-Stack Developer
-- 🎥 Content Creator
-- 💻 tmux + fish + neovim enthusiast
-- 👨‍💻 GoLang + TypeScript
-- 🚀 Automation and productivity lover
+- 📂 Open-source maintainer
+- 💻 cli creator
+- 🪟 tmux plugin creator
+
 
 ## 📫 Connect with Me
 
-🌎 [joshmedeski.com](https://www.joshmedeski.com)
+- 🌎 [joshmedeski.com](https://www.joshmedeski.com)
+- 📺 [youtube.com/joshmedeski](https://www.youtube.com/joshmedeski)
+- 🐦 [x @joshmedeski](https://x.com/joshmedeski)
+- 🦋 [@joshmedeski.bsky.social](https://bsky.app/profile/joshmedeski.bsky.social)
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@JoshMedeski)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/joshmedeski)
+## Stats
 
-## 📈 GitHub Stats
-![Josh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshmedeski&show_icons=true&theme=dark)
+[![Josh's github stats](https://github-readme-stats.vercel.app/api?username=joshmedeski&count_private=true&show_icons=true)](https://github.com/joshmedeski)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshmedeski&layout=donut&hide=html,css,php)](https://github.com/joshmedeski)
